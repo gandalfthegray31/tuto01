@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3f8812f80",
+  "policyUUID": "f8812f80",
+  "bucketName": "tuto01e49c6d3d95fd43e3a5f77eff36444425",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "S3Trigger677fdf2f",
+  "groupAccess": {}
+}
